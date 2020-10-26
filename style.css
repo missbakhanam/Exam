@@ -1,0 +1,8 @@
+div {
+  border: 1px solid gray;
+  float: left;
+  height: 2em; /*2 em = 2x font-size*/
+}
+div.big {
+  width: 66%;
+}
